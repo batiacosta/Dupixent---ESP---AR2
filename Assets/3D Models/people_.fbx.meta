@@ -1,0 +1,208 @@
+fileFormatVersion: 2
+guid: 5015f3be70a0d804aa505c27e4990dd3
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Bigman_01___Walk
+    100002: Bigman_02___Walk
+    100004: Casual_04___Walk
+    100006: Casual_06___Walk
+    100008: Casual_08___Walk
+    100010: Casual_09___walk
+    100012: Casual_10___Walk
+    100014: Casual_12___Walk
+    100016: Casual_17___Walk
+    100018: Executive_03
+    100020: //RootNode
+    100022: Plane_2
+    400000: Bigman_01___Walk
+    400002: Bigman_02___Walk
+    400004: Casual_04___Walk
+    400006: Casual_06___Walk
+    400008: Casual_08___Walk
+    400010: Casual_09___walk
+    400012: Casual_10___Walk
+    400014: Casual_12___Walk
+    400016: Casual_17___Walk
+    400018: Executive_03
+    400020: //RootNode
+    400022: Plane_2
+    2100000: Mat
+    2100002: Casual 12Casual 12 Map
+    2100004: Casual 09Casual 09 Map
+    2100006: Casual 06Casual 06 Map
+    2100008: Casual 04Casual 04 Map
+    2100010: Casual 08bCasual 08b Map
+    2100012: Casual 10Casual 10 Map
+    2100014: Bigman01Bigman01 Map
+    2100016: Bigman 02 Bigman 02 Map
+    2100018: Executive02Executive02 Map
+    2100020: 'Casual 17Map #7'
+    2300000: Bigman_01___Walk
+    2300002: Bigman_02___Walk
+    2300004: Casual_04___Walk
+    2300006: Casual_06___Walk
+    2300008: Casual_08___Walk
+    2300010: Casual_09___walk
+    2300012: Casual_10___Walk
+    2300014: Casual_12___Walk
+    2300016: Casual_17___Walk
+    2300018: Executive_03
+    2300020: Plane_2
+    3300000: Bigman_01___Walk
+    3300002: Bigman_02___Walk
+    3300004: Casual_04___Walk
+    3300006: Casual_06___Walk
+    3300008: Casual_08___Walk
+    3300010: Casual_09___walk
+    3300012: Casual_10___Walk
+    3300014: Casual_12___Walk
+    3300016: Casual_17___Walk
+    3300018: Executive_03
+    3300020: Plane_2
+    4300000: Plane_2
+    4300002: Casual_12___Walk
+    4300004: Casual_09___walk
+    4300006: Casual_06___Walk
+    4300008: Casual_04___Walk
+    4300010: Casual_08___Walk
+    4300012: Casual_10___Walk
+    4300014: Bigman_01___Walk
+    4300016: Bigman_02___Walk
+    4300018: Executive_03
+    4300020: Casual_17___Walk
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bigman 02 Bigman 02 Map
+    second: {fileID: 2100000, guid: 29f2d4279c1026c4fb98c5fd9646afb3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bigman01Bigman01 Map
+    second: {fileID: 2100000, guid: abd68d38d417e4149afdfe39e29c0e71, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Casual 04Casual 04 Map
+    second: {fileID: 2100000, guid: d8fb493e8a5dc9f478416465121e5608, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Casual 06Casual 06 Map
+    second: {fileID: 2100000, guid: 2231f28bc74813542be6b108c990c406, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Casual 08bCasual 08b Map
+    second: {fileID: 2100000, guid: e795600395dfd8749b79aba3ea507dde, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Casual 09Casual 09 Map
+    second: {fileID: 2100000, guid: f0a384f55eb485a4cb69d48ccef2b29e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Casual 10Casual 10 Map
+    second: {fileID: 2100000, guid: 5c10bc2489bf7a14c834aea959287890, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Casual 12Casual 12 Map
+    second: {fileID: 2100000, guid: f83702822b3269f4f89fbf1d693b7e59, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Casual 17Map #7'
+    second: {fileID: 2100000, guid: 81a57ede8bc30b14ca037a4c5d74d3c7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Executive02Executive02 Map
+    second: {fileID: 2100000, guid: a01ea8df9dd58524f966ee3c4d12aa23, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat
+    second: {fileID: 2100000, guid: 9dd74df71ed70ed4f9ed9dfe79850b8e, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

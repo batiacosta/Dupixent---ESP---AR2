@@ -1,0 +1,148 @@
+fileFormatVersion: 2
+guid: e38bec6ee9d4f054b9083314ae3d5995
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Cosita_Celula
+    100002: Cosita_Celula.001
+    100004: Cosita_Celula.002
+    100006: Cosita_Celula.003
+    100008: CositaCelula2
+    100010: CositaCelula2.001
+    100012: CositaCelula2.002
+    100014: CositaCelula2.003
+    100016: //RootNode
+    100018: Icosphere.002
+    100020: Nucleos_Celula
+    400000: Cosita_Celula
+    400002: Cosita_Celula.001
+    400004: Cosita_Celula.002
+    400006: Cosita_Celula.003
+    400008: CositaCelula2
+    400010: CositaCelula2.001
+    400012: CositaCelula2.002
+    400014: CositaCelula2.003
+    400016: //RootNode
+    400018: Icosphere.002
+    400020: Nucleos_Celula
+    2100000: No Name
+    2100002: Material.005
+    2300000: Cosita_Celula
+    2300002: Cosita_Celula.001
+    2300004: Cosita_Celula.002
+    2300006: Cosita_Celula.003
+    2300008: CositaCelula2
+    2300010: CositaCelula2.001
+    2300012: CositaCelula2.002
+    2300014: CositaCelula2.003
+    3300000: Cosita_Celula
+    3300002: Cosita_Celula.001
+    3300004: Cosita_Celula.002
+    3300006: Cosita_Celula.003
+    3300008: CositaCelula2
+    3300010: CositaCelula2.001
+    3300012: CositaCelula2.002
+    3300014: CositaCelula2.003
+    4300000: Nucleos_Celula
+    4300002: Icosphere.002
+    4300004: CositaCelula2
+    4300006: Cosita_Celula
+    4300008: CositaCelula2.001
+    4300010: Cosita_Celula.001
+    4300012: CositaCelula2.002
+    4300014: Cosita_Celula.002
+    4300016: CositaCelula2.003
+    4300018: Cosita_Celula.003
+    9500000: //RootNode
+    13700000: Icosphere.002
+    13700002: Nucleos_Celula
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.005
+    second: {fileID: 2100000, guid: 157d682edf8cf454b92db4a6b6a42d78, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: af80736a7a6cd074189a942c555f07ad, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

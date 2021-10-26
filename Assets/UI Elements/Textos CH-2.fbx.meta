@@ -1,0 +1,193 @@
+fileFormatVersion: 2
+guid: fc2a9374901962f409cc2d42fee2d1bc
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Airway hyper T
+    100002: Airway remodeling T
+    100004: Allergic
+    100006: Common Asthma T
+    100008: EOS T
+    100010: Eosinophillic
+    100012: Epithelial T
+    100014: FeNO
+    100016: FeNO.001
+    100018: iGE Producing T
+    100020: IgE T
+    100022: IL-13
+    100024: Il4-T
+    100026: Macrophages T
+    100028: Mast Cells T
+    100030: Mixed T
+    100032: Mucus T
+    100034: //RootNode
+    100036: Th0 T
+    100038: Th2 T
+    100040: TYPE 2 Inflamma T
+    100042: Type 2 inflammation in asthma
+    400000: Airway hyper T
+    400002: Airway remodeling T
+    400004: Allergic
+    400006: Common Asthma T
+    400008: EOS T
+    400010: Eosinophillic
+    400012: Epithelial T
+    400014: FeNO
+    400016: FeNO.001
+    400018: iGE Producing T
+    400020: IgE T
+    400022: IL-13
+    400024: Il4-T
+    400026: Macrophages T
+    400028: Mast Cells T
+    400030: Mixed T
+    400032: Mucus T
+    400034: //RootNode
+    400036: Th0 T
+    400038: Th2 T
+    400040: TYPE 2 Inflamma T
+    400042: Type 2 inflammation in asthma
+    2100000: No Name
+    2300000: Airway hyper T
+    2300002: Airway remodeling T
+    2300004: Allergic
+    2300006: Common Asthma T
+    2300008: EOS T
+    2300010: Eosinophillic
+    2300012: Epithelial T
+    2300014: FeNO
+    2300016: FeNO.001
+    2300018: iGE Producing T
+    2300020: IgE T
+    2300022: IL-13
+    2300024: Il4-T
+    2300026: Macrophages T
+    2300028: Mast Cells T
+    2300030: Mixed T
+    2300032: Mucus T
+    2300034: Th0 T
+    2300036: Th2 T
+    2300038: TYPE 2 Inflamma T
+    2300040: Type 2 inflammation in asthma
+    3300000: Airway hyper T
+    3300002: Airway remodeling T
+    3300004: Allergic
+    3300006: Common Asthma T
+    3300008: EOS T
+    3300010: Eosinophillic
+    3300012: Epithelial T
+    3300014: FeNO
+    3300016: FeNO.001
+    3300018: iGE Producing T
+    3300020: IgE T
+    3300022: IL-13
+    3300024: Il4-T
+    3300026: Macrophages T
+    3300028: Mast Cells T
+    3300030: Mixed T
+    3300032: Mucus T
+    3300034: Th0 T
+    3300036: Th2 T
+    3300038: TYPE 2 Inflamma T
+    3300040: Type 2 inflammation in asthma
+    4300000: IgE T
+    4300002: Type 2 inflammation in asthma
+    4300004: Allergic
+    4300006: Eosinophillic
+    4300008: Common Asthma T
+    4300010: Mixed T
+    4300012: EOS T
+    4300014: FeNO.001
+    4300016: FeNO
+    4300018: Il4-T
+    4300020: IL-13
+    4300022: Airway hyper T
+    4300024: Mucus T
+    4300026: Airway remodeling T
+    4300028: Th0 T
+    4300030: Th2 T
+    4300032: TYPE 2 Inflamma T
+    4300034: iGE Producing T
+    4300036: Mast Cells T
+    4300038: Macrophages T
+    4300040: Epithelial T
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
